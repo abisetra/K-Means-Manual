@@ -1,7 +1,3 @@
-import sys, os
-sys.path.append("C:/Users/abiyy/Downloads/Pemroraman_Python/")
-os.environ['OMP_NUM_THREADS'] = '1'
-
 import modul
 
 def main():
